@@ -1,0 +1,33 @@
+.footer {
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+
+  &-background {
+    background: $footer;
+  }
+
+  &-contacts {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+
+  }
+
+  &-contact {
+    padding-right: 15px;
+    width: 50%;
+    padding-top: 25px;
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+
+  &-picture {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+  }
+}

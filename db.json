@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "num": 1,
+      "image": "1.jpg",
+      "class": "Baby-G",
+      "name": "White Killer",
+      "price": 6999,
+      "description": "Watch made of tempered glass and steel interspersed with 320 sterling silver",
+      "color": "White, Pink gold",
+      "weight": 0.40
+    },
+    {
+      "id": 2,
+      "num": 1,
+      "image": "2.jpg",
+      "class": "Baby-G",
+      "name": "Delicious",
+      "price": 6999,
+      "description": "Watch made of tempered glass and steel interspersed with 320 sterling silver",
+      "color": "Black, Pink, White",
+      "weight": 0.40
+    },
+    {
+      "id": 3,
+      "num": 1,
+      "image": "3.jpg",
+      "class": "Protection Baby-G",
+      "name": "Strict beauty",
+      "price": 5999,
+      "description": "Watch made of tempered glass and high quality plastic",
+      "color": "Black",
+      "weight": 0.35
+    },
+    {
+      "id": 4,
+      "num": 1,
+      "image": "4.jpg",
+      "class": "Protection Baby-G",
+      "name": "Strict rose",
+      "price": 5999,
+      "description": "Watch made of tempered glass and high quality plastic",
+      "color": "Pink",
+      "weight": 0.35
+    },
+    {
+      "id": 5,
+      "num": 1,
+      "image": "5.jpg",
+      "class": "Protection Baby-G",
+      "name": "Strict white vine",
+      "price": 5999,
+      "description": "Watch made of tempered glass and high quality plastic",
+      "color": "White, Pink",
+      "weight": 0.35
+    },
+    {
+      "id": 6,
+      "num": 1,
+      "image": "6.jpg",
+      "class": "Sphere Baby-G",
+      "name": "Compass watch",
+      "price": 7999,
+      "description": "Watch made of tempered glass and steel interspersed with 320 sterling silver",
+      "color": "Black, Pink",
+      "weight": 0.45
+    },
+    {
+      "id": 7,
+      "num": 1,
+      "image": "7.jpg",
+      "class": "Small Baby-G",
+      "name": "Lady dress",
+      "price": 6399,
+      "description": "Watches in tempered glass and rose gold",
+      "color": "White, Pink gold",
+      "weight": 0.30
+    },
+    {
+      "id": 8,
+      "num": 1,
+      "image": "8.jpg",
+      "class": "Baby-G",
+      "name": "White Power",
+      "price": 6999,
+      "description": "Watch made of tempered glass and steel interspersed with 320 sterling silver",
+      "color": "White, Aqua blue",
+      "weight": 0.40
+    },
+    {
+      "id": 9,
+      "num": 1,
+      "image": "9.jpg",
+      "class": "Glory Baby-G",
+      "name": "Glass watch",
+      "price": 3999,
+      "description": "Watch made of tempered glass and steel interspersed with 320 sterling silver",
+      "color": "White, Light blue",
+      "weight": 0.40
+    }
+  ]
+}
