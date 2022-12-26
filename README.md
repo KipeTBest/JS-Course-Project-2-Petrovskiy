@@ -1,24 +1,8 @@
-# untitled
+Проект магазина по продаже часов.
 
-## Project setup
-```
-npm install
-```
+Используется: axios, vuex, vue-router, material-icons, node-sass, sass-loader.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Запускается проект:
+1) В терминале: json-server --watch db.json
+2) npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
